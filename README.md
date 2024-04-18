@@ -21,29 +21,48 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Install Web Platform Installer
 - Install MySqul / Setup Username & Password
 - Install C++ Redistributable
-- Configure Permission / Install osTicket
+- Configure Permissions / Install osTicket
 
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://github.com/zjmassie/osticket-prereqs/assets/139398375/444bc42d-96b4-4eb6-aec2-cd33db41a21a)">
+<img src= https://github.com/zjmassie/osticket-prereqs/assets/139398375/fbd85f15-c776-4a38-add3-03c0a512d029)">
 </p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Install / Enable IIS in Windows with CGI, Common HTTP Features, and IIS Management Console.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src= https://github.com/zjmassie/osticket-prereqs/assets/139398375/b9fbefbc-a634-4cd6-af88-e061ff7e6054)/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Download and install PHP Manager. Create a directory in C drive (C:\PHP).
 </p>
 <br />
+
+<p>
+<img src="https://github.com/zjmassie/osticket-prereqs/assets/139398375/90f31929-863d-4288-992c-78f3120504ab)"/>
+</p><p>
+Download and install MySQL | Typical Setup | Launch Config Wizard (after install) | Standard | Configuration Set password
+</p>
+<br />
+
+<p>
+<img src= https://github.com/zjmassie/osticket-prereqs/assets/139398375/b3e38674-39bb-4f77-a381-bb156aee728f)">
+</p>
+Download and install C++ redistributable
+</p>
+<br />
+
+<p>
+<img src="https://github.com/zjmassie/osticket-prereqs/assets/139398375/0a869592-1a7f-41c9-9dd8-29a8dbeaa275)">
+</p>
+Configure permissions using PHP Manager | Enable osTicket extensions within PHP Manager | finish install of osTicket
+</p>
+<br />
+
+<p>
+<img src="https://github.com/zjmassie/osticket-prereqs/assets/139398375/4f5a5c1e-9a1a-40bf-b04f-f493fd5459a2)">
+</p>
+Excelsior! Let's resolve some tickets!
+</p>
